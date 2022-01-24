@@ -1,1 +1,1 @@
-# Classification-of-music-genre
+# Eli Lilly Data Science Competition
